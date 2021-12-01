@@ -1352,7 +1352,9 @@ footer .info {
   .text-ic2-eco,
   .text-ic3-eco,
   .text-ic1-auto,
-  .text-ic2-auto .text-ic1-ipoteka,
+  .text-ic2-auto,
+  .text-ic2-auto,
+  .text-ic1-ipoteka,
   .text-ic2-ipoteka,
   .text-ic3-ipoteka {
     font-size: 26px;
