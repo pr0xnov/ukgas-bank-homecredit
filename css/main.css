@@ -1699,13 +1699,13 @@ footer .info {
   }
   .ic1-ipoteka {
     top: 75%;
-    left: 15%;
+    left: 13%;
   }
 
   .text-ic1-ipoteka {
     top: 74%;
     left: 20%;
-    width: 24%;
+    width: 130px;
   }
   .ic2-ipoteka {
     top: 74%;
@@ -1720,12 +1720,27 @@ footer .info {
 
   .ic3-ipoteka {
     top: 74%;
-    left: 55%;
+    left: 53%;
   }
   .text-ic3-ipoteka {
     top: 73%;
     left: 60%;
-    width: 22%;
+    width: 130px;
+  }
+}
+@media (max-width: 420px) {
+  .ic1-ipoteka {
+    left: 11%;
+  }
+
+  .text-ic1-ipoteka {
+    left: 18%;
+  }
+  .ic3-ipoteka {
+    left: 55%;
+  }
+  .text-ic3-ipoteka {
+    left: 62%;
   }
 }
 /*# sourceMappingURL=main.css.map */
